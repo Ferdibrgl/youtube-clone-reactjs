@@ -1,6 +1,6 @@
-SIMPLE YOUTUBE CLONE IN REACTJS
+REACTJS'DE BASİT YOUTUBE KLONLAMA
 
-**Developed By Germ�n Cutraro**
+**ferdi  brgulTarafından Geliştirildi**
 
 Requirements: npm, Youtube API
 
